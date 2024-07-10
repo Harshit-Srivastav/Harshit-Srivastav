@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Harshit-Srivastav
+- 👋 Hi, I’m Harshit-Srivastava
 - 👀 I’m interested in web development, open source projects. 
 - 🚀 I'm currently working on my portfolio.
 - 🌱 I’m currently learning Next.js.
