@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning Next.js.
 - ✔️ Ask me about Django, Node.js, JavaScript, Python.
 - 💞 I love chess and coffee.
-- 📫 How to reach me
-- 📧 Email: srivastavaharshit599@gmail.com
 
 <!---
 Harshit-Srivastav/Harshit-Srivastav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
